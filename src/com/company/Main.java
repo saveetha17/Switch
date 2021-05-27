@@ -36,9 +36,6 @@ public class Main {
             case 'B':
                 System.out.println("This is B");
                 break;
-            case 'C':
-                System.out.println("This is C");
-                break;
             case 'D':
                 System.out.println("This is D");
                 break;
